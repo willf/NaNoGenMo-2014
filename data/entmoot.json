@@ -1,0 +1,79 @@
+{
+  "chapters": [
+    {
+      "title": "The Entmoot begins",
+      "sentences": [
+        {
+          "sidenote": "Fangorn calls order. It is morning on 30 February, T.A. 3019.",
+          "english": "Fangorn calls the Entmoot to order."
+        },
+        {
+          "sidenote": "Fangorn introduces Pippen and Merry.",
+          "english": "I, Fangorn, have met two creatures not in the old lists. They are named Peregrin and Meriadoc. They call themselves hobbits."
+        },
+        {
+          "sidenote": "Hobbits are added to the old lists.",
+          "english": "Let us add hobbits to the old lists."
+        },
+        {
+          "sidenote": "Fangorn excuses himself to care for the hobbits.",
+          "english": "The hobbits need my care. I will return."
+        }
+      ]
+    },
+    {
+      "title": "The Ents Lament",
+      "sentences": [
+        {
+          "sidenote": "Fladrif (Skinbark) starts to describe the suffering of the trees.",
+          "english": "Fladrif reports on the suffering of the trees."
+        },
+        {
+          "sidenote": "We call out the names of the dead (many names omitted for space).",
+          "english": "AA, AB, AC, AD, AE, AF, AG, AH, AI, AJ, AK."
+        },
+        {
+          "sidenote": "The Entmoot mourns together. The mourning goes on through the evening and the night.",
+          "english": "With sorrow we remember our losses."
+        },
+        {
+          "sidenote": "The Entmoot continues its lament. It is morning on 1 March, T.A. 3019",
+          "english": "Let us remember with joy their lives."
+        }
+      ]
+    },
+    {
+      "title": "The Ents Plan A Response",
+      "sentences": [
+        {
+          "sidenote": "Finglas (Leaflock) urges restraint. It is afternoon on 1 March, T.A. 3019.",
+          "english": "Finglas urges restraint, avoidance of hastiness. Remember Fimbrethil."
+        },
+        {
+          "sidenote": "Fladrif declares the Entmoot must react quickly.",
+          "english": "Fladrif declares the Entmoot must react quickly."
+        },
+        {
+          "sidenote": "The Ent known as Beechbone concurs.",
+          "english": "Beechbone concurs."
+        },
+        {
+          "sidenote": "Fangorn says he must act, even if it means never seeing Fimbrethil again.",
+          "english": "Act says Fangorn, despite love for Fimbrethil."
+        },
+        {
+          "sidenote": "Fangorn recommends marching on Orthanc with the Hourns.",
+          "english": "March to Orthanc with the Hourns!"
+        },
+        {
+          "sidenote": "The Entmoot agrees to march on Orthanc. It is morning on 2 March, T.A. 3019.",
+          "english": "We march to our doom if need be!"
+        },
+        {
+          "sidenote": "The Entmoot start their march. It is afternoon on 2 March, T.A. 3019.",
+          "english": "Hroom! Hroom! Hroom!"
+        }
+      ]
+    }
+  ]
+}
