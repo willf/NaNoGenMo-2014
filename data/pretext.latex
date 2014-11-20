@@ -200,6 +200,19 @@ Copyright \copyright\ \the\year\ \thanklessauthor
 
 %\listoftables
 
+% r.7 dedication
+\cleardoublepage
+~\vfill
+\begin{doublespace}
+\noindent\fontsize{18}{22}\selectfont\itshape
+\nohyphenation
+Dedicated to the queen of trees, Elizabeth “Bess” Fitzgerald, who
+has taken root in my heart. Thank you for not pestering me or 
+making fun of me (much).
+\end{doublespace}
+\vfill
+\vfill
+
 
 % r.9 introduction
 \cleardoublepage
