@@ -1,4 +1,4 @@
-# Entmoot of T.A. 3019# 
+# Entmoot of T.A. 3019 # 
 
 This is my entry for [NaNoGenMo 2014](https://github.com/dariusk/NaNoGenMo-2014). It generates a transcript of the Entmoot (meeting of the Ents) as described in The Lord of The Rings ([Treebeard](http://tolkiengateway.net/wiki/Treebeard_(chapter))). 
 
